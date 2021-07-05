@@ -1,7 +1,5 @@
 ### Hi there, It's David! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my 15 websites in 30 day challenge
 - 🌱 I’m currently learning CSS/HTML/JavaScript
 - 💬 Ask me about Anything :D
