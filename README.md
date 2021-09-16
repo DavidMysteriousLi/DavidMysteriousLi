@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning CSS/HTML/JavaScript
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am Indian Chinese
+- ⚡ Fun fact: I am Indian Chinese and I am trilingual
