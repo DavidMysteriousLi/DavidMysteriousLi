@@ -14,7 +14,8 @@
 <br /> 
 --- 
 
+<p align="center"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=highcontrast)
-
+</p>
 [email]: mailto:liw164@mcmaster.ca
 [linkedin]: https://www.linkedin.com/in/weitali/
