@@ -8,5 +8,5 @@
 
 ## Skills and Experience
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=gruvbox)
 
