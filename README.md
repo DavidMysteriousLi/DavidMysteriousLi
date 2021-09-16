@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Indian Chinese and trilingual
 
-## Skills and Experience
+## Skills 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=highcontrast)
 
