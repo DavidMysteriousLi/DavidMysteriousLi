@@ -6,7 +6,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Indian Chinese and trilingual
 
-## Skills 
+## My Contacts:
+
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMysteriousLi&show_icons=true&theme=highcontrast)
 
+[email]: mailto:liw164@mcmaster.ca
+[linkedin]: https://www.linkedin.com/in/weitali/
