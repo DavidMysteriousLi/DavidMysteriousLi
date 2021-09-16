@@ -8,7 +8,7 @@
 
 ## My Contacts:
 [<img align="left" alt="Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
-[<img align="left" alt="LinkedIn" width="25px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="25px" src="https://markinickerson.com/wp-content/uploads/2020/03/linkedin-icon.png" />][linkedin]
 <br />
 <hr /> 
 
