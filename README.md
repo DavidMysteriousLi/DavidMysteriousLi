@@ -12,7 +12,7 @@
 <br />
 <hr /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-Wei-Ta&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-wei-ta&show_icons=true&theme=radical)
 
 [email]: mailto:liw164@mcmaster.ca
 [linkedin]: https://www.linkedin.com/in/weitali/
