@@ -1,6 +1,6 @@
 # Hi there, It's David! 👋
 
-- 🔭 I’m currently working on building my personal website
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning/interested in graph databases
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
