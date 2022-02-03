@@ -1,7 +1,6 @@
 # Hi there, It's David! 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning/interested in graph databases
+- 🌱 I’m currently learning/interested blockchain technology
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Indian Chinese and trilingual (English, Hakka, Hindi)
