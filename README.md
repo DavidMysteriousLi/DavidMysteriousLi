@@ -1,6 +1,6 @@
 # Hi there, It's David! 👋
 
-Welcome to my github account! I am a third year McMaster University Student majoring in Computer Science. Here you can find projects that I love coding on in my free time. 
+Welcome to my github account! Here you can find projects that I love coding on in my free time. 
 
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
