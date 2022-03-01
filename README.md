@@ -1,6 +1,7 @@
 # Hi there, It's David! 👋
 
-- 🌱 I’m currently learning/interested blockchain technology
+Welcome to my github account! 
+
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am trilingual (English, Hakka, Hindi)
