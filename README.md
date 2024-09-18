@@ -12,7 +12,5 @@ Welcome to my github account! Here you can find projects that I love coding on i
 <br />
 <hr /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-wei-ta&show_icons=true&theme=radical)
-
 [email]: mailto:liw164@mcmaster.ca
 [linkedin]: https://www.linkedin.com/in/weitali/
