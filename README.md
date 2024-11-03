@@ -13,4 +13,4 @@ Welcome to my github account! Here you can find projects that I love coding on i
 <hr /> 
 
 [email]: mailto:liweita11@gmail.com
-[linkedin]: https://www.linkedin.com/in/weitali/
+[linkedin]: https://www.linkedin.com/in/davidli15/
