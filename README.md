@@ -1,6 +1,6 @@
 # Hi there, It's David! 👋
 
-Welcome to my github account! Here you can find projects that I love coding on in my free time. 
+Welcome to my github account! Here you can find projects that I love coding on in my free time and my notes/resources for learning
 
 - 💬 Ask me about anything :D
 - 😄 Pronouns: he/him
