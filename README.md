@@ -12,5 +12,5 @@ Welcome to my github account! Here you can find projects that I love coding on i
 <br />
 <hr /> 
 
-[email]: mailto:liw164@mcmaster.ca
+[email]: mailto:liweita11@gmail.com
 [linkedin]: https://www.linkedin.com/in/weitali/
